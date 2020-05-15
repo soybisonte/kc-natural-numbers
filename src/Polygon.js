@@ -6,6 +6,6 @@ export default class Polygon {
     }
     render () {
         const { p5 } = this
-        p5.ellipse(0, 0, 30, 30);
+        p5.ellipse(0, 0, 100, 100);
     }
 }
